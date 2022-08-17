@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Toasty-Roach
 - 👀 I’m interested in ... Learning
-- 🌱 I’m currently learning ... PowerShell and Infoblox REST API
+- 🌱 I’m currently learning ... More like attempting to learn Terraform, GitHub and anything else critical to imporoving my skills
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Find me on the soccer filed
 
 <!---
 Toasty-Roach/Toasty-Roach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
